@@ -13,5 +13,7 @@ class Person {
   }
 }
 
+console.log("I am modified");
+
 const p1 = new Person('Piyush', 'Garg');
 const p2 = new Person('Akash', 'Kadlag');
